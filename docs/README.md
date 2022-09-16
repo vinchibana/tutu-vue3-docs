@@ -12,7 +12,7 @@ features:
   details: SKU前端解决方案，本地线上购物车，第三方登录，支付宝支付，搜索，订单，分类
 - title: 技术使用
   details: Vue3.0 @vueuse/core vue-router vuex vuex-persistedstate axios vee-validate power-set
-footer: MIT Licensed | Copyright © 2021-present Allen Zhou
+footer: Copyright © 2022 
 ---
 
 
@@ -20,4 +20,4 @@ footer: MIT Licensed | Copyright © 2021-present Allen Zhou
 ![npm](https://img.shields.io/npm/v/n)
 ![npm (tag)](https://img.shields.io/npm/v/vue/next?color=green&label=vue)
 
-> [演示地址](http://erabbit.itheima.net/#/)
+> [演示地址](https://github.com/vinchibana/tutu-vue3)
