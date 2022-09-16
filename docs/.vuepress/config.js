@@ -2,7 +2,7 @@ import {defineUserConfig,defaultTheme} from 'vuepress'
 
 export default defineUserConfig({
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
-  base: '/tutu-vue3/',
+  base: '/',
   title: 'tutu-vue3',
   description: 'PC前台-开发文档',
   theme:defaultTheme(
