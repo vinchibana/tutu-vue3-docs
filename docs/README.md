@@ -20,4 +20,4 @@ footer: Copyright © 2022
 ![npm](https://img.shields.io/npm/v/n)
 ![npm (tag)](https://img.shields.io/npm/v/vue/next?color=green&label=vue)
 
-> [演示地址](https://github.com/vinchibana/tutu-vue3)
+> [演示地址](https://tutu-vue3.vercel.app)
